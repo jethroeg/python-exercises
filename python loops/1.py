@@ -8,7 +8,8 @@ for i in numbers:
     elif i % 2 != 0:
         odd += 1
 
-print('you have ' + str(even) + ' even numbers and ' + str(odd) + ' odd numbers')
+print(f'the number of even numbers is: {even}')
+print(f'the number of even numbers is: {odd}')
 
 
     
