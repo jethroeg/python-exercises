@@ -3,8 +3,8 @@
 #furniture = ['table', 'chair', 'desk', 'lamp', 'couch']
 
 #for item in furniture:
-#    print(f'YOU WILL NOT BE ABLE TO FIND A {item.upper()} CHEAPER THAN OUR PRICES AT FURNITURE MART!'
-
+#    print(f'YOU WILL NOT BE ABLE TO FIND A {item.upper()} CHEAPER THAN OUR PRICES AT FURNITURE MART!')
+# this formatted string is the same as print('YOU WILL NOT BE ABLE TO FIND A ' + item.upper() + ' CHEAPER THAN OUR PRICES AT FURNITURE MART!')
 furniture = ['table', 'chair', 'desk', 'lamp', 'couch']
 i = 0
 
